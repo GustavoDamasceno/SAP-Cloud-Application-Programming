@@ -350,10 +350,6 @@ Com isso, você poderá navegar até sua pasta app/ e notará que foi criado seu
   ├── app/
       ├── project1/
       ├── services.cds
-  |
-  .
-  .
-  .
 ```
 
 Bem, vamos rodar nossa aplicação. Abra seu terminal e digite
