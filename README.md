@@ -277,7 +277,7 @@ npm install -g @sap/generator-fiori
 ```
 Esses pacotes permitem que você use o comando _yo_ para gerar o aplicativo Fiori Elements.
 
-### 4.2 Gerar o aplicativo Fiori Elements:
+### 4.2 Gerando o aplicativo Fiori Elements:
 
 Após as instalações, vamos executar o comando
 
