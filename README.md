@@ -126,7 +126,7 @@ Agora, navegue até sua pasta db/ e crie uma pasta chamada data, sua estrutura f
   ├── package.json
   ├── README.md
 ```
-E dentro da sua pasta data/ crie um arquivo _.csv_ para adicionar dados ao banco. Detalhe super importante, ao criar o arquivo o nome dele precisa ser _[nome da entidade].[nome da entity].csv_, pois como dito anteriormente a extensão do SAP CAP já conecta com o sqlite automaticamente. Nesse exemplo o nome da aplicação será _mydb.Products.csv_
+E dentro da sua pasta data/ crie um arquivo _.csv_ para adicionar dados ao banco. Detalhe super importante, ao criar o arquivo o nome dele precisa ser _[nome do namespace].[nome da entidade].csv_, pois como dito anteriormente a extensão do SAP CAP já conecta com o sqlite automaticamente. Nesse exemplo o nome da aplicação será _mydb.Products.csv_
 
 Ao criar o arquivo você pode popular ele, segue um modelo de exemplo:
 
