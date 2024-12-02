@@ -366,3 +366,7 @@ Agora, só acessar o serviço e ai está
 ![](https://media.discordapp.net/attachments/632579623569457152/1312039888287301662/image.png?ex=674b0bdd&is=6749ba5d&hm=9794880a7373b959ae1f565d5966d7e683691f0bc058e48c461f571901295205&=&format=webp&quality=lossless&width=885&height=441)
 
 Enfim, seu projeto já está no esquema para começar a trabalhar nele. Bom trabalho, ou boa sorte se for o caso.
+
+E caso, queira deixar o desenvolvimento low code, assim como no business studio application para utilizar a ferramenta na qual foi comentada no começo da documentação **SAP Fiori Tools Extension Pack**. E clique na ferramenta lateral da extensõa SAP Fiori, como na imagem abaixo:
+
+![](https://media.discordapp.net/attachments/632579623569457152/1313214976357306368/image.png?ex=674f5240&is=674e00c0&hm=e95e3968d7c468262e651505147818b6f92a25b7ce03f78af45fc185dbc902cf&=&format=webp&quality=lossless&width=785&height=441)
