@@ -86,7 +86,7 @@ Ao rodar o comando você verá que o serviço irá dizer o link fornecido que vo
 ```
 no meu caso, basta abrir _http://localhost:4004_. Note que não tem nenhum web applications e tem um service endpoints chamado _Products_.
 
-![](https://media.discordapp.net/attachments/632579623569457152/1311547396437708810/image.png?ex=67494132&is=6747efb2&hm=6f0638ebbb999943c268763b48d72234ecef57cc85cbbf1d414f0ce1e78c523f&=&format=webp&quality=lossless&width=1025&height=348)
+![](https://media.discordapp.net/attachments/632579623569457152/1311547396437708810/image.png?ex=6759bbf2&is=67586a72&hm=1baa8a7265148923de1c14e4138aaf5f4a5905cdd845cc70e4126a11678cdd46&=&format=webp&quality=lossless&width=1025&height=348)
 
 Você pode acessar o service enpoint _Products_ fazendo uma requisição _GET_ em _http://localhost:4004/odata/v4/catalog/Products_ porém não vai ter dados e vai te retornar o seguinte:
 
@@ -359,14 +359,14 @@ cds watch
 ```
 Abra seu localhost e note, que onde estava _none_ lá em aplicação web, agora tem a aplicação que geramos
 
-![](https://media.discordapp.net/attachments/632579623569457152/1312039171950379120/image.png?ex=674b0b33&is=6749b9b3&hm=2f4c61dba33de6fcef70dce910e056abe07bab82c41d23f8f014cdef79a50cee&=&format=webp&quality=lossless&width=911&height=441)
+![](https://media.discordapp.net/attachments/632579623569457152/1312039171950379120/image.png?ex=67598bb3&is=67583a33&hm=ba21a1227b5e04fba8cd9f3411780c5020e15265feb69b5e821a8a5068014345&=&format=webp&quality=lossless&width=911&height=441)
 
 Agora, só acessar o serviço e ai está
 
-![](https://media.discordapp.net/attachments/632579623569457152/1312039888287301662/image.png?ex=674b0bdd&is=6749ba5d&hm=9794880a7373b959ae1f565d5966d7e683691f0bc058e48c461f571901295205&=&format=webp&quality=lossless&width=885&height=441)
+![](https://media.discordapp.net/attachments/632579623569457152/1312039888287301662/image.png?ex=67598c5d&is=67583add&hm=f269c12152c0b74bd9f954df5af0db53f4ee37d7b29e4e86bd3bcd82ab473860&=&format=webp&quality=lossless&width=885&height=441)
 
 Enfim, seu projeto já está no esquema para começar a trabalhar nele. Bom trabalho, ou boa sorte se for o caso.
 
 E caso, queira deixar o desenvolvimento low code, assim como no business studio application para utilizar a ferramenta na qual foi comentada no começo da documentação **SAP Fiori Tools Extension Pack**. E clique na ferramenta lateral da extensõa SAP Fiori, como na imagem abaixo:
 
-![](https://media.discordapp.net/attachments/632579623569457152/1313214976357306368/image.png?ex=674f5240&is=674e00c0&hm=e95e3968d7c468262e651505147818b6f92a25b7ce03f78af45fc185dbc902cf&=&format=webp&quality=lossless&width=785&height=441)
+![](https://media.discordapp.net/attachments/632579623569457152/1313214976357306368/image.png?ex=67593580&is=6757e400&hm=a12adf89b2de198b67070bb6eca04f34508b8cc8a0ff748fb797fdc3b6a76575&=&format=webp&quality=lossless&width=785&height=441)
